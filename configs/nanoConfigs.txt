@@ -1,0 +1,32 @@
+# Customizar as cores da sintaxe
+
+set titlecolor brightwhite,blue 
+set statuscolor brightwhite,green
+set selectedcolor white,magenta
+set numbercolor cyan
+set functioncolor red
+
+# titlecolor: Cor do título.
+# statuscolor: Cor da barra de status.
+# selectedcolor: Cor do texto selecionado.
+# numbercolor: Cor dos números de linha.
+# functioncolor: Cor das funções.
+
+
+# Mostrar números de linha
+set linenumbers
+
+# Ativar o modo de indentações automáticas
+set autoindent
+
+# Mostrar a posição do cursor
+set constantshow
+
+# Mostrar o mouse
+set mouse
+
+# Ativar a exibição de espaço em branco
+set whitespace "¬·"
+
+# Habilitar a busca de expressões regulares:
+set regexp
